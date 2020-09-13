@@ -93,7 +93,7 @@ experiences:
     - role: Web Application Developer
       time: 09.2016 - 01.2017
       company: Hand2Band
-      detalis: |
+      details: |
         - Design and development of web applications with RubyOnRails and AngularJS.
         - Maintaining and defect fixing.
         - Preparing environment on the servers for hosting RubyOnRails applications.
