@@ -1,0 +1,16 @@
+{% assign courses = site.data.data.sidebar.courses %}
+{% if courses %}
+<div class="education-container container-block">
+
+  <h2 class="container-block-title">
+    Courses
+  </h2>
+
+  {% for course in courses %}
+  <div class="item">
+    <h4 class="degree">{{ course.item }}</h4>
+  </div>
+  {% endfor %}
+    
+</div>
+{% endif %}
