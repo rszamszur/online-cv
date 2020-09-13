@@ -65,31 +65,38 @@ education:
       university: Gdańsk University of Technology
       time: 2012 - 2017
       details: |
-        - "Specialization: Computer Science in Medicine"
-        - "Thesis: Web service for people with Alzheimers disease training."
-        - "Grade: Very good"
+        - Specialization: Computer Science in Medicine
+        - Thesis: Web service for people with Alzheimers disease training.
+        - Grade: Very good
 experiences:
     - role: Software Engineer R&D
       time: 01.2020 - present
       company: Adva Optical Networking
       details: |
-        TODO
+        - Research and development of python apps/scripts/pluins for automation of ADVA products CI/CD process and SVT/SIT testing.
+        - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on Docker and Python.
+        - Co-creation and maintaining of internal release notes documentation system.
+        - Co-creation and maintaining of extensible framework for completely automated software promotion, releasing, packaging.
+        - Development of CI/CD architecture utilizing technologies such as Jenkins, Artifactory, GitLab and AWS EC2.
+        - Unix-based systems configuration, and administration.
+        - Code review.
+        - Team Scrum Master.
 
     - role: Associate Software Engineer R&D
       time: 03.2018 - 01.2020
       company: Adva Optical Networking
-      details: |
-        TODO
+
     - role: Student Software Production R&D
       time: 06.2017 - 03.2018
       company: Adva Optical Networking
-      details: |
-        TODO
+
     - role: Web Application Developer
       time: 09.2016 - 01.2017
       company: Hand2Band
       detalis: |
-        TODO
+        - Design and development of web applications with RubyOnRails and AngularJS.
+        - Maintaining and defect fixing.
+        - Preparing environment on the servers for hosting RubyOnRails applications.
         
 projects:
     title: Projects
