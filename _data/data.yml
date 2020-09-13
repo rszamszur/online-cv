@@ -144,6 +144,9 @@ skills:
       - name: Ansible
         level: 67%
         
+      - name: Zabbix
+        level: 55%
+
       - name: Kubernetes
         level: 35%
 
