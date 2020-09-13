@@ -65,9 +65,9 @@ education:
       university: Gdańsk University of Technology
       time: 2012 - 2017
       details: |
-        - 'Specialization: Computer Science in Medicine'
-        - 'Thesis: Web service for people with Alzheimers disease training.'  
-        - 'Grade: Very good'
+        - "Specialization: Computer Science in Medicine"
+        - "Thesis: Web service for people with Alzheimers disease training."
+        - "Grade: Very good"
 experiences:
     - role: Software Engineer R&D
       time: 01.2020 - present
@@ -126,6 +126,9 @@ skills:
 
       - name: AWS
         level: 70%
+
+      - name: Jenkins
+        level: 65%
 
       - name: Ansible
         level: 67%
