@@ -113,28 +113,41 @@ skills:
 
     toolset:
       - name: Python
+        level: 90%
 
       - name: Bash
+        level: 80%
 
       - name: Docker
+        level: 90%
         
       - name: Git
+        level: 90%
 
       - name: AWS
+        level: 70%
 
       - name: Ansible
+        level: 67%
         
       - name: Kubernetes
+        level: 35%
 
       - name: System Administration
+        level: 68%
 
-      - name: Scrum Master 
+      - name: Scrum Master
+        level: 75%
 
       - name: Ruby
+        level: 60%
 
       - name: Ruby on Rails
+        level: 80%
 
       - name: VueJs
+        level: 80%
 
       - name: HTML5 & CSS
+        level: 80%
 
