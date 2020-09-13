@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Radosław Szamszur
-    tagline: DevOps Software Engineer
+    tagline: DevOps Engineer
     avatar: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,7 +61,7 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: BSc in Biomedical Engineering
+    - degree: Bachelors of Biomedical Engineering
       university: Gdańsk University of Technology
       time: 2012 - 2017
       details: |
@@ -73,10 +73,10 @@ experiences:
       time: 01.2020 - present
       company: Adva Optical Networking
       details: |
-        - Research and development of python apps/scripts/pluins for automation of ADVA products CI/CD process and SVT/SIT testing.
+        - Research and development of python apps/scripts/plugins for automation of ADVA products CI/CD process and SVT/SIT testing.
         - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on Docker and Python.
         - Co-creation and maintaining of internal release notes documentation system.
-        - Co-creation and maintaining of extensible framework for completely automated software promotion, releasing, packaging.
+        - Co-creation and maintaining of an extensible framework for completely automated software promotion, releasing, packaging.
         - Development of CI/CD architecture utilizing technologies such as Jenkins, Artifactory, GitLab and AWS EC2.
         - Unix-based systems configuration, and administration.
         - Code review.
@@ -96,24 +96,28 @@ experiences:
       details: |
         - Design and development of web applications with RubyOnRails and AngularJS.
         - Maintaining and defect fixing.
-        - Preparing environment on the servers for hosting RubyOnRails applications.
+        - Preparing the environment on the servers for hosting RubyOnRails applications.
         
 projects:
     title: Projects
     intro: >
-      Within my free time I'm also developing comercial web-applications from time to time.
+      Within my free time, I'm coding Python modules and bash scripts but also I'm developing commercial web-applications from time to time.
     assignments:
       - title: MedNote
         link:
-        tagline: "Simple web application created for beauti cilinic [VueJs, Vuetify, Rails]."
+        tagline: "Simple web application dedicated for small clinics [VueJs, Vuetify, Rails][Demo on demand]."
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
-        tagline: "Frontend app for reserving removals [AngularJS, HTML, CSS]."
+        tagline: "Frontend app for reserving removals [AngularJS]."
 
-      - title: dajcosodsiebie.pl
+      - title: dajcosodsiebie
         link: 
-        tagline: "App for Tymbark x-mas advertising campaign. [Rails, AngularJS]"
+        tagline: "App for Tymbark x-mas advertising campaign. [Rails, AngularJS][Demo on demand]."
+
+      - title: ImageCrypt
+        link: "https://github.com/rszamszur/ImageCrypt/tree/Release-v.0.1.0"
+        tagline: "[In progress, pre release - only LSB] Python CLI module for LSB and DCT image steganography [Python]."
 
 skills:
     title: Skills &amp; Tools
@@ -158,6 +162,6 @@ skills:
       - name: VueJs
         level: 80%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS3
         level: 80%
 
