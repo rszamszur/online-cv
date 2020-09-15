@@ -73,7 +73,7 @@ experiences:
       time: 01.2020 - present
       company: Adva Optical Networking
       details: |
-        - Research and development of **Python* apps/scripts/plugins for automation of ADVA products CI/CD process and SVT/SIT testing.
+        - Research and development of **Python** apps/scripts/plugins for automation of ADVA products CI/CD process and SVT/SIT testing.
         - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on **Docker** and **Python**.
         - Co-creation and maintaining of internal release notes documentation system.
         - Co-creation and maintaining of an extensible framework for completely automated software promotion, releasing, packaging.
@@ -107,8 +107,7 @@ projects:
     assignments:
       - title: MedNote
         link:
-        tagline: |
-          Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
+        tagline: 'Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].'
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
