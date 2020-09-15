@@ -77,7 +77,7 @@ experiences:
         - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on Docker and Python.
         - Co-creation and maintaining of internal release notes documentation system.
         - Co-creation and maintaining of an extensible framework for completely automated software promotion, releasing, packaging.
-        - Development of CI/CD architecture utilizing technologies such as Jenkins, Artifactory, GitLab and AWS EC2.
+        - Development of CI/CD architecture utilizing technologies such as **Jenkins**, **Artifactory**, **GitLab** and **AWS EC2**.
         - Unix-based systems configuration, and administration.
         - Code review.
         - Team Scrum Master.
@@ -105,7 +105,7 @@ projects:
     assignments:
       - title: MedNote
         link:
-        tagline: "Simple web application dedicated for small clinics [VueJs, Vuetify, Rails][Demo on demand]."
+        tagline: "Simple web application dedicated for small clinics [**VueJs, Vuetify, Rails**][Demo on demand]."
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
