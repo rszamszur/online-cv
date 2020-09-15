@@ -73,14 +73,16 @@ experiences:
       time: 01.2020 - present
       company: Adva Optical Networking
       details: |
-        - Research and development of python apps/scripts/plugins for automation of ADVA products CI/CD process and SVT/SIT testing.
-        - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on Docker and Python.
+        - Research and development of **Python* apps/scripts/plugins for automation of ADVA products CI/CD process and SVT/SIT testing.
+        - Implementation of ADVA core system emulator used by developers, testers and automated continuous integration systems based on **Docker** and **Python**.
         - Co-creation and maintaining of internal release notes documentation system.
         - Co-creation and maintaining of an extensible framework for completely automated software promotion, releasing, packaging.
         - Development of CI/CD architecture utilizing technologies such as **Jenkins**, **Artifactory**, **GitLab** and **AWS EC2**.
         - Unix-based systems configuration, and administration.
+        - Developing unit and integration test for internal Python modules utilizing **PyTest**, **Mock** and **Flake8**
+        - Maintaining ADVA core system emulator used by developers, testers and automated continuous integration systems based on **VirtualBox** **Vagrant** and **Ruby**
         - Code review.
-        - Team Scrum Master.
+        - Team **Scrum Master**.
 
     - role: Associate Software Engineer R&D
       time: 03.2018 - 01.2020
@@ -94,9 +96,9 @@ experiences:
       time: 09.2016 - 01.2017
       company: Hand2Band
       details: |
-        - Design and development of web applications with RubyOnRails and AngularJS.
+        - Design and development of web applications with **RubyOnRails** and **AngularJS**.
         - Maintaining and defect fixing.
-        - Preparing the environment on the servers for hosting RubyOnRails applications.
+        - Preparing the environment on the servers for hosting **RubyOnRails** applications.
         
 projects:
     title: Projects
@@ -105,19 +107,19 @@ projects:
     assignments:
       - title: MedNote
         link:
-        tagline: "Simple web application dedicated for small clinics [**VueJs, Vuetify, Rails**][Demo on demand]."
+        tagline: Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
-        tagline: "Frontend app for reserving removals [AngularJS]."
+        tagline: Frontend app for reserving removals [**AngularJS**].
 
       - title: dajcosodsiebie
         link: 
-        tagline: "App for Tymbark x-mas advertising campaign. [Rails, AngularJS][Demo on demand]."
+        tagline: App for Tymbark x-mas advertising campaign. [**Rails**, **AngularJS**][Demo on demand].
 
       - title: ImageCrypt
         link: "https://github.com/rszamszur/ImageCrypt/tree/Release-v.0.1.0"
-        tagline: "[In progress, pre release - only LSB] Python CLI module for LSB and DCT image steganography [Python]."
+        tagline: [In progress, pre release - only LSB] Python CLI module for LSB and DCT image steganography [**Python**].
 
 skills:
     title: Skills &amp; Tools
@@ -148,7 +150,7 @@ skills:
         level: 55%
 
       - name: Kubernetes
-        level: 35%
+        level: 45%
 
       - name: System Administration
         level: 68%
