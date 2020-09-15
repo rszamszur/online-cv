@@ -107,19 +107,23 @@ projects:
     assignments:
       - title: MedNote
         link:
-        tagline: Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
+        tagline: |
+          Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
-        tagline: Frontend app for reserving removals [**AngularJS**].
+        tagline: |
+          Frontend app for reserving removals [**AngularJS**].
 
       - title: dajcosodsiebie
         link: 
-        tagline: App for Tymbark x-mas advertising campaign. [**Rails**, **AngularJS**][Demo on demand].
+        tagline: |
+          App for Tymbark x-mas advertising campaign. [**Rails**, **AngularJS**][Demo on demand].
 
       - title: ImageCrypt
         link: "https://github.com/rszamszur/ImageCrypt/tree/Release-v.0.1.0"
-        tagline: [In progress, pre release - only LSB] Python CLI module for LSB and DCT image steganography [**Python**].
+        tagline: |
+          [In progress, pre release - only LSB] Python CLI module for LSB and DCT image steganography [**Python**].
 
 skills:
     title: Skills &amp; Tools
