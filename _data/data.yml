@@ -107,7 +107,8 @@ projects:
     assignments:
       - title: MedNote
         link:
-        tagline: 'Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].'
+        tagline: |
+          Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
