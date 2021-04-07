@@ -105,6 +105,11 @@ projects:
     intro: >
       Within my free time, I'm coding Python modules and bash scripts but also I'm developing commercial web-applications from time to time.
     assignments:
+      - title: Stocker
+        link:
+        tagline: |
+          Stock exchange bot capable of analysis, backtests, automatic buy and sell with extensible model and data interfaces. Adapted to run in multiprocessing. [**Python**, **Pandas**, **Ansible**, **K8s**, **Zabbix**, **Seq**].
+
       - title: MedNote
         link:
         tagline: |
