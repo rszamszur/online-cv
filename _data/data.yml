@@ -108,12 +108,12 @@ projects:
       - title: Stocker
         link:
         tagline: |
-          Stock exchange bot capable of analysis, backtests, automatic buy and sell with extensible model and data interfaces. Adapted to run in multiprocessing. [**Python**, **Pandas**, **Ansible**, **K8s**, **Zabbix**, **Seq**].
+          Stock exchange bot capable of analysis, backtests, automatic buy and sell with extensible model and data interfaces. Adapted to run in multiprocessing. [**Python**, **Pandas**, **K8s**, **Ansible**, **Seq**].
 
       - title: MedNote
         link:
         tagline: |
-          Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**][Demo on demand].
+          Simple web application dedicated for small clinics [**VueJs**, **Vuetify**, **Rails**, **K8s**].
 
       - title: Onlineagebot
         link: "https://onlineangebot.rsdev.pl"
@@ -123,7 +123,7 @@ projects:
       - title: dajcosodsiebie
         link: 
         tagline: |
-          App for Tymbark x-mas advertising campaign. [**Rails**, **AngularJS**][Demo on demand].
+          App for Tymbark x-mas advertising campaign. [**Rails**, **AngularJS**].
 
       - title: ImageCrypt
         link: "https://github.com/rszamszur/ImageCrypt/tree/Release-v.0.1.0"
@@ -137,12 +137,18 @@ skills:
       - name: Python
         level: 90%
 
+      - name: Kubernetes
+        level: 75%
+
       - name: Bash
         level: 80%
 
       - name: Docker
         level: 90%
         
+      - name: GoLang
+        level: 65%
+
       - name: Git
         level: 90%
 
@@ -154,15 +160,9 @@ skills:
 
       - name: Ansible
         level: 67%
-        
-      - name: Zabbix
-        level: 55%
-
-      - name: Kubernetes
-        level: 45%
 
       - name: System Administration
-        level: 68%
+        level: 70%
 
       - name: Scrum Master
         level: 75%
